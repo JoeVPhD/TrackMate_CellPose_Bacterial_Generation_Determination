@@ -30,7 +30,7 @@ Automated analysis pipeline for bacterial cell lineage tracking, morphology quan
 9. Download results from the output folder
 
 ### Option 2: Local Installation
-See [Installation Guide](INSTALLATION.md)
+See [Installation Guide](docs/installation.md)
 
 ## Input Data Format
 CSV files from TrackMate required: _spots.csv and _edges.csv 
