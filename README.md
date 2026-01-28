@@ -3,7 +3,7 @@ End-to-end pipeline for bacterial single-cell lineage, growth, and morphology an
 
 # Bacterial Cell Growth & Shape Analysis Pipeline
 
-[![Open In Colab](https://colab.research.google.com/github/JoeVPhD/TrackMate_CellPose_Bacterial_Generation_Determination/blob/main/TrackMate_CellPose_Bacterial_Generation_Determination.ipynb#scrollTo=6jAKZK3GlOMc)
+[![Open In Colab](https://colab.research.google.com/github/JoeVPhD/TrackMate_CellPose_Bacterial_Generation_Determination/blob/main/TrackMate_CellPose_Bacterial_Generation_Determination.ipynb)
 
 ## Overview
 Automated analysis pipeline for bacterial cell lineage tracking, morphology quantification, and multi-condition population comparisons. Analyzes shape mutants, growth rates, division timing, and cell geometry across generations.
