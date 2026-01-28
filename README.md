@@ -36,7 +36,7 @@ See [Installation Guide](docs/installation.md)
 CSV files from TrackMate required: _spots.csv and _edges.csv 
 **Files should be saved in Date_Mutatation_Gene_Location format** (example: 20260101_L206K_mreB_s1_spots.csv / 20260101_L206K_mreB_s1_edges.csv
 
-[Download sample dataset](data/sample/example_data.csv)
+[Download sample dataset](data/)
 
 ## Output Files
 - **Plots**: 15+ publication-ready figures (PNG, 150 DPI)
