@@ -42,7 +42,7 @@ CSV files from TrackMate required: _spots.csv and _edges.csv
 - **Plots**: 15+ publication-ready figures (PNG, 150 DPI)
 - **Stats Table**: `Boss_Summary_Table.csv` with medians & sample sizes
 - **Raw Data**: `Total_Population_Dataset.csv` for custom analysis
-![Lineage Path Examples #1](https://github.com/JoeVPhD/TrackMate_CellPose_Bacterial_Generation_Determination/issues/1#issuecomment-3811288666)
+![Lineage Path Examples #1](example_outputs/Path_0_0_0_0_0_157938_0_0_157938_166295.png)
 ## Citation
 If you use this pipeline, please cite: [Your Paper/DOI]
 
