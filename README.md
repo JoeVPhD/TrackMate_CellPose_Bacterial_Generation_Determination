@@ -3,7 +3,8 @@ End-to-end pipeline for bacterial single-cell lineage, growth, and morphology an
 
 # Bacterial Cell Growth & Shape Analysis Pipeline
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gsAUsYNoWOOzDmhxI8X337MLxXuTFiV2?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1gsAUsYNoWOOzDmhxI8X337MLxXuTFiV2?usp=sharing)
 
 
 ## Overview
